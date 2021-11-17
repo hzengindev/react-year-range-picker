@@ -4,6 +4,12 @@
 
 [![NPM](https://img.shields.io/npm/v/react-year-range-picker.svg)](https://www.npmjs.com/package/react-year-range-picker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Introduction
+
+![scr1](https://raw.githubusercontent.com/hzengindev/react-year-range-picker/main/img/scr1.png)
+
+![scr2](https://raw.githubusercontent.com/hzengindev/react-year-range-picker/main/img/scr2.png)
+
 ## Install
 
 ```bash

@@ -13,6 +13,10 @@ code {
     monospace;
 }
 
+.custom-year-range-picker {
+  border-radius: 20px;
+}
+
 .custom-year-range-picker .yrp-picker-box {
   border-radius: 20px;
   background-color: #1890ff;

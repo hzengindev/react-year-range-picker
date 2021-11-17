@@ -11,7 +11,7 @@ const CustomStyle = () => {
 
   return (
     <div>
-      <h2>Styled Usage</h2>
+      <h2>Custom Style</h2>
       <YearRangePicker
         minYear={new Date().getFullYear() - 2}
         maxYear={new Date().getFullYear() + 2}
